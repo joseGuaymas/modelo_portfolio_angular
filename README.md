@@ -1,1 +1,1 @@
-Maquetado de portafolio web basado en componente de Angular según el proyecto final integrador.
+Molde para portafolio armado en componentes de Angular y maquetado con Bootstrap.
